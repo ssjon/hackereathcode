@@ -1,3 +1,15 @@
+/*
+enter the nos& term
+248
+5
+284
+496
+1184
+1210
+2620
+*/
+
+
 import java .util.*;
 class bestindex
 {
